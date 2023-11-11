@@ -1,7 +1,7 @@
-1. Proyek Dasar: Kalkulator CLI (12.11.2023 2.59AM Calculator CLI)
+**1. Proyek Dasar: Kalkulator CLI (12.11.2023 2.59AM Calculator CLI)**
 Buatlah kalkulator sederhana berbasis Command Line Interface (CLI) dengan fungsi penjumlahan, pengurangan, perkalian, dan pembagian.
 
-2. Proyek Dasar: Aplikasi Pengelolaan Kontak (12.11.2023 4.12AM Contact Manager)
+**2. Proyek Dasar: Aplikasi Pengelolaan Kontak (12.11.2023 4.12AM Contact Manager)**
 Buatlah aplikasi pengelolaan kontak yang memungkinkan pengguna menambah, menghapus, dan menampilkan daftar kontak.
 
 3. Proyek Menengah: Pembuat Quiz
@@ -28,8 +28,3 @@ Buatlah platform pembelajaran mesin yang memungkinkan pengguna mengunggah datase
 10. Proyek Tinggi: Sistem Pendeteksian Kecurangan dalam Keuangan
 Buatlah sistem pendeteksian kecurangan dalam transaksi keuangan yang menggunakan metode analisis pola dan machine learning untuk mengidentifikasi perilaku yang mencurigakan.
 Setiap proyek dapat disesuaikan dengan tingkat keahlian dan pengetahuan yang dimiliki. Semoga ini memberikan inspirasi untuk proyek-proyek Python yang menarik!
-
-
-
-
-
